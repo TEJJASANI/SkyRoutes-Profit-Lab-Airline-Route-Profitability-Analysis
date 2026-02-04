@@ -40,7 +40,7 @@ The project focuses on SQL-based data analysis and business insight generation.
 
 The dataset was prepared in two ways:
 
-- A structured CSV file (`AirlineRoutesData.csv`) containing 200 flight records.
+- A structured CSV file (`AirlineRoutesData_FULL_200.csv`) containing 200 flight records.
 - Manual data entry and SQL insert statements were also created directly in the database for testing and validation purposes.
 
 ---
