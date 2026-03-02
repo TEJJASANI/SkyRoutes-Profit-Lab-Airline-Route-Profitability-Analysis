@@ -48,7 +48,6 @@ The dataset was prepared in two ways:
 ## 🛠 Tools & Technologies Used
 
 - SQL (MySQL/PostgreSQL)
-- Excel / Power BI (for visualization - optional)
 - GitHub (Version Control)
 
 ---
